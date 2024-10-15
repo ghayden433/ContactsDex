@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GraphNode
+comment0.text=\r\n\ GraphNode\ are\ nodes\ for\ the\ graph\ that\ theres\ one\ for\ each\ item\ in\ the\ graph.\r\n\ they\ need\ to\ store\ ListNode\ objects,\ which\ is\ the\ head\ of\ a\ list\ of\ its\ connections\r\n\r\n\ @author\ Hayden\ Gillen\r\n\ @version\ v1.0\r\n
+comment1.params=listNode
+comment1.target=GraphNode(ListNode)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ListNode\r\n
+numComments=2

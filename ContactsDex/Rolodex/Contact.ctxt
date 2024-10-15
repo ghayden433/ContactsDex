@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Contact
+comment0.text=\r\n\ a\ contact\ is\ a\ place\ to\ store\ the\ name\ of\ a\ person\ or\ company\ along\ with\ their\ address\ and\ phone\ number\r\n\r\n\ @author\ Hayden\ Gillen\r\n\ @version\ v1.0\r\n
+comment1.params=name\ address\ phone
+comment1.target=Contact(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=Name\ Address\ phone
+comment2.target=void\ setInfo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ allows\ a\ user\ to\ change\ a\ contacts\ information\r\n
+comment3.params=
+comment3.target=void\ output()
+comment3.text=\r\n\ prints\ out\ all\ of\ the\ users\ information\r\n
+comment4.params=number
+comment4.target=java.lang.String\ phoneNumber(java.lang.String)
+comment4.text=\r\n\ formats\ phone\ number\ \ \ \r\n
+comment5.params=
+comment5.target=java.lang.String\ name()
+comment5.text=\r\n\ returns\ name\ \ \ \r\n
+numComments=6

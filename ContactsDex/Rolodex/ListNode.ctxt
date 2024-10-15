@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ListNode
+comment0.text=\r\n\ ListNode\ is\ nodes\ for\ a\ singly\ linked\ list\r\n\ these\ nodes\ store\ contacts\r\n\ \r\n\ I've\ decided\ not\ to\ store\ the\ whole\ list\ as\ an\ object\ and\ just\ keep\ the\ head\ avaliable\r\n\ the\ list\ will\ be\ used\ in\ network\ and\ that\ will\ have\ the\ methods\ for\ changing\ and\ accessing\r\n\r\n\ @author\ Hayden\ Gillen\r\n\ @version\ v1.0\r\n
+comment1.params=contact
+comment1.target=ListNode(Contact)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ListNode\r\n
+numComments=2

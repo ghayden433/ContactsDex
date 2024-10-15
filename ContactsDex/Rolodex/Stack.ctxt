@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ its\ a\ stack\ with\ a\ limited\ size\ that\ is\ built\ on\ ListNode<Contact>\r\n\r\n\ @author\ Hayden\ Gillen\r\n\ @version\ v1.0\r\n
+comment1.params=size
+comment1.target=Stack(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Stack\r\n
+comment2.params=source
+comment2.target=void\ push(Contact)
+comment2.text=\r\n\ push\ new\ contact\ onto\ the\ stack\r\n
+comment3.params=num
+comment3.target=Contact[]\ peek(int)
+comment3.text=\r\n\ returns\ the\ top\ num\ items\ in\ the\ stack\ without\ removing\r\n\ if\ num\ >\ size\ then\ it\ returns\ all\ items\r\n
+comment4.params=
+comment4.target=Contact\ pop()
+comment4.text=\r\n\ push\ new\ contact\ onto\ the\ stack\r\n
+comment5.params=
+comment5.target=void\ clear()
+comment6.params=
+comment6.target=int\ size()
+numComments=7

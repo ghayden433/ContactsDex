@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Network
+comment0.text=\r\n\ this\ network\ is\ an\ unweighted\ undirected\ graph\ that\ stores\ the\ connection\ between\ people\ in\ a\ rolodex\r\n\ stored\ as\ an\ adjacency\ list\ \r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Network()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Network\r\n
+comment2.params=contact1\ contact2
+comment2.target=void\ addConnection(Contact,\ Contact)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=void\ printGraph()
+comment3.text=\r\n\ \ Print\ the\ graph\ \ \ \r\n
+comment4.params=source
+comment4.target=java.util.HashMap\ dijkstras(Contact)
+comment4.text=\r\n\ performs\ Dijkstras\ single\ source\ shortest\ path\ algorithm\ \ \ \r\n
+comment5.params=contact
+comment5.target=GraphNode\ findGraphNode(Contact)
+comment5.text=\r\n\ \ iterate\ through\ the\ graphnodes\ until\ desired\ contact\ is\ found\ \r\n
+numComments=6
